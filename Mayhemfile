@@ -1,0 +1,5 @@
+project: jacob-clemente/opusfile
+target: opusfile_example
+
+cmds:
+  - cmd: /opusfile_example @@
